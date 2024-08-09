@@ -1,6 +1,6 @@
-from import_lib import *
-from predict import predict  # Assuming you have a predict function in predict.py
-from flask import Flask, request, render_template, redirect, url_for
+import pandas as pd
+from predict import predict 
+from flask import Flask, request, render_template
 
 app = Flask(__name__)
 
@@ -33,4 +33,4 @@ def home():
     return render_template('index.html', prediction=prediction)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)   
