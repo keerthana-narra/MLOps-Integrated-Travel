@@ -73,14 +73,19 @@ def preprocess(input_data):
   return input_data
 
 def predict(input_data):
+  path = 'pkl_files/'
+
   # Preprocess and create features for test
   input_data = preprocess(input_data)
+  # Feed the distance & time taken by the flight
+  load_distance_time = pd.read_csv('load_distance_time.csv')
+  input_data = pd.merge(input_data, load_distance_time, on=['from', 'to', 'flighttype', 'agency'], how='left')
 
   # Load the encoder and scaler for use on new data
-  with open('encoder.pkl', 'rb') as file:
+  with open(path+'encoder.pkl', 'rb') as file:
       loaded_encoder = pickle.load(file)
 
-  with open('scaler.pkl', 'rb') as file:
+  with open(path+'scaler.pkl', 'rb') as file:
       loaded_scaler = pickle.load(file)
 
   # Separate categorical and numerical features
@@ -93,7 +98,7 @@ def predict(input_data):
 
   input_data = np.hstack((input_data_num, input_data_cat))
 
-  with open('best_xgb_model.pkl', 'rb') as file:
+  with open(path+'best_xgb_model.pkl', 'rb') as file:
     loaded_model = pickle.load(file)
   
   y_pred = loaded_model.predict(input_data)

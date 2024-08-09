@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Ticket Price Prediction</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 100%;
+        }
+
+        h1 {
+            text-align: center;
+            color: #007BFF;
+            margin-bottom: 20px;
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        select,
+        input[type="date"] {
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+        .prediction-result {
+            margin-top: 20px;
+            font-size: 20px;
+            font-weight: 600;
+            color: #007BFF;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Flight Ticket Price Prediction</h1>
+        <form action="/" method="POST" id="predictionForm">
+            <label for="date">Date:</label>
+            <input type="date" name="date" id="date" required>
+
+            <label for="from">From:</label>
+            <select name="from" id="from" required>
+                <option value="" disabled selected>Select...</option>
+                <option value="Florianopolis (SC)">Florianopolis (SC)</option>
+                <option value="Aracaju (SE)">Aracaju (SE)</option>
+                <option value="Campo Grande (MS)">Campo Grande (MS)</option>
+                <option value="Brasilia (DF)">Brasilia (DF)</option>
+                <option value="Recife (PE)">Recife (PE)</option>
+                <option value="Natal (RN)">Natal (RN)</option>
+                <option value="Sao Paulo (SP)">Sao Paulo (SP)</option>
+                <option value="Salvador (BH)">Salvador (BH)</option>
+                <option value="Rio de Janeiro (RJ)">Rio de Janeiro (RJ)</option>
+            </select>
+
+            <label for="to">To:</label>
+            <select name="to" id="to" required>
+                <option value="" disabled selected>Select...</option>
+                <option value="Florianopolis (SC)">Florianopolis (SC)</option>
+                <option value="Aracaju (SE)">Aracaju (SE)</option>
+                <option value="Campo Grande (MS)">Campo Grande (MS)</option>
+                <option value="Brasilia (DF)">Brasilia (DF)</option>
+                <option value="Recife (PE)">Recife (PE)</option>
+                <option value="Natal (RN)">Natal (RN)</option>
+                <option value="Sao Paulo (SP)">Sao Paulo (SP)</option>
+                <option value="Salvador (BH)">Salvador (BH)</option>
+                <option value="Rio de Janeiro (RJ)">Rio de Janeiro (RJ)</option>
+            </select>
+
+            <label for="flighttype">Flight Type:</label>
+            <select name="flighttype" id="flighttype" required>
+                <option value="" disabled selected>Select...</option>
+                <option value="FirstClass">First Class</option>
+                <option value="Premium">Premium</option>
+                <option value="Economic">Economic</option>
+            </select>
+
+            <label for="agency">Agency:</label>
+            <select name="agency" id="agency" required>
+                <option value="" disabled selected>Select...</option>
+                <option value="Rainbow">Rainbow</option>
+                <option value="CloudFy">CloudFy</option>
+                <option value="FlyingDrops">FlyingDrops</option>
+            </select>
+
+            <input type="submit" value="Predict Price">
+        </form>
+
+        {% if prediction %}
+            <div class="prediction-result" id="predictionResult">
+                Predicted Price: ${{ prediction }}
+            </div>
+        {% endif %}
+    </div>
+
+    <script>
+        // Check if the page was refreshed
+        window.onload = function() {
+            if (performance.navigation.type == performance.navigation.TYPE_RELOAD) {
+                // Clear the form and prediction if page was refreshed
+                document.getElementById("predictionForm").reset();
+                document.getElementById("predictionResult").style.display = 'none';
+            }
+        };
+    </script>
+</body>
+</html>
