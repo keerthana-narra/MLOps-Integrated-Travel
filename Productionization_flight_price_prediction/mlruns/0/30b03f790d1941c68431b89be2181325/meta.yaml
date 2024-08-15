@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/projects/MLOps-Integrated-Travel/Productionization_flight_price_prediction/mlruns/0/30b03f790d1941c68431b89be2181325/artifacts
+end_time: 1723707258804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30b03f790d1941c68431b89be2181325
+run_name: XGBoost
+run_uuid: 30b03f790d1941c68431b89be2181325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723707254490
+status: 3
+tags: []
+user_id: ADMIN

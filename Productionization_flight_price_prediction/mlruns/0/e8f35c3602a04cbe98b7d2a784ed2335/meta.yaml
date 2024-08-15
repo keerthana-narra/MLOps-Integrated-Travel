@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/projects/MLOps-Integrated-Travel/Productionization_flight_price_prediction/mlruns/0/e8f35c3602a04cbe98b7d2a784ed2335/artifacts
+end_time: 1723707292572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8f35c3602a04cbe98b7d2a784ed2335
+run_name: XGBoost Hyperparameter Tuning
+run_uuid: e8f35c3602a04cbe98b7d2a784ed2335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723707258824
+status: 3
+tags: []
+user_id: ADMIN

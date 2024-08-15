@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/projects/MLOps-Integrated-Travel/Productionization_flight_price_prediction/mlruns/0/12bb9a47798049fe9fe0a14751702733/artifacts
+end_time: 1723707254479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12bb9a47798049fe9fe0a14751702733
+run_name: RandomForest
+run_uuid: 12bb9a47798049fe9fe0a14751702733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723707232333
+status: 3
+tags: []
+user_id: ADMIN
