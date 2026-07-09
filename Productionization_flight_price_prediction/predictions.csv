@@ -1,0 +1,1961 @@
+date,from,to,flighttype,agency,price
+2024-08-14,Aracaju (SE),Brasilia (DF),economic,CloudFy,
+2024-08-14,Aracaju (SE),Brasilia (DF),economic,Rainbow,
+2024-08-14,Aracaju (SE),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Brasilia (DF),premium,CloudFy,
+2024-08-14,Aracaju (SE),Brasilia (DF),premium,Rainbow,
+2024-08-14,Aracaju (SE),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Aracaju (SE),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Aracaju (SE),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Aracaju (SE),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Aracaju (SE),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Aracaju (SE),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Aracaju (SE),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Aracaju (SE),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Aracaju (SE),Natal (RN),economic,CloudFy,
+2024-08-14,Aracaju (SE),Natal (RN),economic,Rainbow,
+2024-08-14,Aracaju (SE),Natal (RN),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Natal (RN),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Natal (RN),premium,CloudFy,
+2024-08-14,Aracaju (SE),Natal (RN),premium,Rainbow,
+2024-08-14,Aracaju (SE),Recife (PE),economic,CloudFy,
+2024-08-14,Aracaju (SE),Recife (PE),economic,Rainbow,
+2024-08-14,Aracaju (SE),Recife (PE),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Recife (PE),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Recife (PE),premium,CloudFy,
+2024-08-14,Aracaju (SE),Recife (PE),premium,Rainbow,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Aracaju (SE),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Aracaju (SE),Salvador (BH),economic,CloudFy,
+2024-08-14,Aracaju (SE),Salvador (BH),economic,Rainbow,
+2024-08-14,Aracaju (SE),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Salvador (BH),premium,CloudFy,
+2024-08-14,Aracaju (SE),Salvador (BH),premium,Rainbow,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Aracaju (SE),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Brasilia (DF),Aracaju (SE),economic,CloudFy,
+2024-08-14,Brasilia (DF),Aracaju (SE),economic,Rainbow,
+2024-08-14,Brasilia (DF),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Aracaju (SE),premium,CloudFy,
+2024-08-14,Brasilia (DF),Aracaju (SE),premium,Rainbow,
+2024-08-14,Brasilia (DF),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Brasilia (DF),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Brasilia (DF),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Brasilia (DF),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Brasilia (DF),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Brasilia (DF),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Brasilia (DF),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Brasilia (DF),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Brasilia (DF),Natal (RN),economic,CloudFy,
+2024-08-14,Brasilia (DF),Natal (RN),economic,Rainbow,
+2024-08-14,Brasilia (DF),Natal (RN),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Natal (RN),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Natal (RN),premium,CloudFy,
+2024-08-14,Brasilia (DF),Natal (RN),premium,Rainbow,
+2024-08-14,Brasilia (DF),Recife (PE),economic,CloudFy,
+2024-08-14,Brasilia (DF),Recife (PE),economic,Rainbow,
+2024-08-14,Brasilia (DF),Recife (PE),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Recife (PE),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Recife (PE),premium,CloudFy,
+2024-08-14,Brasilia (DF),Recife (PE),premium,Rainbow,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Brasilia (DF),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Brasilia (DF),Salvador (BH),economic,CloudFy,
+2024-08-14,Brasilia (DF),Salvador (BH),economic,Rainbow,
+2024-08-14,Brasilia (DF),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Salvador (BH),premium,CloudFy,
+2024-08-14,Brasilia (DF),Salvador (BH),premium,Rainbow,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Brasilia (DF),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Aracaju (SE),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Aracaju (SE),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Aracaju (SE),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Aracaju (SE),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Brasilia (DF),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Brasilia (DF),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Brasilia (DF),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Brasilia (DF),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Natal (RN),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Natal (RN),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Natal (RN),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Natal (RN),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Natal (RN),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Natal (RN),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Recife (PE),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Recife (PE),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Recife (PE),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Recife (PE),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Recife (PE),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Recife (PE),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Salvador (BH),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Salvador (BH),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Salvador (BH),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Salvador (BH),premium,Rainbow,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Campo Grande (MS),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Aracaju (SE),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Aracaju (SE),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Aracaju (SE),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Aracaju (SE),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Brasilia (DF),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Brasilia (DF),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Brasilia (DF),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Brasilia (DF),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Natal (RN),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Natal (RN),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Natal (RN),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Natal (RN),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Natal (RN),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Natal (RN),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Recife (PE),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Recife (PE),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Recife (PE),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Recife (PE),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Recife (PE),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Recife (PE),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Salvador (BH),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Salvador (BH),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Salvador (BH),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Salvador (BH),premium,Rainbow,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Florianopolis (SC),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Natal (RN),Aracaju (SE),economic,CloudFy,
+2024-08-14,Natal (RN),Aracaju (SE),economic,Rainbow,
+2024-08-14,Natal (RN),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Natal (RN),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Natal (RN),Aracaju (SE),premium,CloudFy,
+2024-08-14,Natal (RN),Aracaju (SE),premium,Rainbow,
+2024-08-14,Natal (RN),Brasilia (DF),economic,CloudFy,
+2024-08-14,Natal (RN),Brasilia (DF),economic,Rainbow,
+2024-08-14,Natal (RN),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Natal (RN),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Natal (RN),Brasilia (DF),premium,CloudFy,
+2024-08-14,Natal (RN),Brasilia (DF),premium,Rainbow,
+2024-08-14,Natal (RN),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Natal (RN),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Natal (RN),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Natal (RN),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Natal (RN),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Natal (RN),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Natal (RN),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Natal (RN),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Natal (RN),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Natal (RN),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Natal (RN),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Natal (RN),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Natal (RN),Recife (PE),economic,CloudFy,
+2024-08-14,Natal (RN),Recife (PE),economic,Rainbow,
+2024-08-14,Natal (RN),Recife (PE),firstClass,CloudFy,
+2024-08-14,Natal (RN),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Recife (PE),firstClass,Rainbow,
+2024-08-14,Natal (RN),Recife (PE),premium,CloudFy,
+2024-08-14,Natal (RN),Recife (PE),premium,Rainbow,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Natal (RN),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Natal (RN),Salvador (BH),economic,CloudFy,
+2024-08-14,Natal (RN),Salvador (BH),economic,Rainbow,
+2024-08-14,Natal (RN),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Natal (RN),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Natal (RN),Salvador (BH),premium,CloudFy,
+2024-08-14,Natal (RN),Salvador (BH),premium,Rainbow,
+2024-08-14,Natal (RN),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Natal (RN),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Natal (RN),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Natal (RN),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Natal (RN),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Natal (RN),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Natal (RN),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Recife (PE),Aracaju (SE),economic,CloudFy,
+2024-08-14,Recife (PE),Aracaju (SE),economic,Rainbow,
+2024-08-14,Recife (PE),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Recife (PE),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Recife (PE),Aracaju (SE),premium,CloudFy,
+2024-08-14,Recife (PE),Aracaju (SE),premium,Rainbow,
+2024-08-14,Recife (PE),Brasilia (DF),economic,CloudFy,
+2024-08-14,Recife (PE),Brasilia (DF),economic,Rainbow,
+2024-08-14,Recife (PE),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Recife (PE),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Recife (PE),Brasilia (DF),premium,CloudFy,
+2024-08-14,Recife (PE),Brasilia (DF),premium,Rainbow,
+2024-08-14,Recife (PE),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Recife (PE),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Recife (PE),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Recife (PE),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Recife (PE),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Recife (PE),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Recife (PE),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Recife (PE),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Recife (PE),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Recife (PE),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Recife (PE),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Recife (PE),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Recife (PE),Natal (RN),economic,CloudFy,
+2024-08-14,Recife (PE),Natal (RN),economic,Rainbow,
+2024-08-14,Recife (PE),Natal (RN),firstClass,CloudFy,
+2024-08-14,Recife (PE),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Natal (RN),firstClass,Rainbow,
+2024-08-14,Recife (PE),Natal (RN),premium,CloudFy,
+2024-08-14,Recife (PE),Natal (RN),premium,Rainbow,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Recife (PE),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Recife (PE),Salvador (BH),economic,CloudFy,
+2024-08-14,Recife (PE),Salvador (BH),economic,Rainbow,
+2024-08-14,Recife (PE),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Recife (PE),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Recife (PE),Salvador (BH),premium,CloudFy,
+2024-08-14,Recife (PE),Salvador (BH),premium,Rainbow,
+2024-08-14,Recife (PE),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Recife (PE),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Recife (PE),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Recife (PE),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Recife (PE),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Recife (PE),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Recife (PE),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Aracaju (SE),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Brasilia (DF),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Natal (RN),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Recife (PE),premium,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Rio de Janeiro (RJ),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Salvador (BH),Aracaju (SE),economic,CloudFy,
+2024-08-14,Salvador (BH),Aracaju (SE),economic,Rainbow,
+2024-08-14,Salvador (BH),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Aracaju (SE),premium,CloudFy,
+2024-08-14,Salvador (BH),Aracaju (SE),premium,Rainbow,
+2024-08-14,Salvador (BH),Brasilia (DF),economic,CloudFy,
+2024-08-14,Salvador (BH),Brasilia (DF),economic,Rainbow,
+2024-08-14,Salvador (BH),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Brasilia (DF),premium,CloudFy,
+2024-08-14,Salvador (BH),Brasilia (DF),premium,Rainbow,
+2024-08-14,Salvador (BH),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Salvador (BH),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Salvador (BH),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Salvador (BH),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Salvador (BH),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Salvador (BH),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Salvador (BH),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Salvador (BH),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Salvador (BH),Natal (RN),economic,CloudFy,
+2024-08-14,Salvador (BH),Natal (RN),economic,Rainbow,
+2024-08-14,Salvador (BH),Natal (RN),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Natal (RN),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Natal (RN),premium,CloudFy,
+2024-08-14,Salvador (BH),Natal (RN),premium,Rainbow,
+2024-08-14,Salvador (BH),Recife (PE),economic,CloudFy,
+2024-08-14,Salvador (BH),Recife (PE),economic,Rainbow,
+2024-08-14,Salvador (BH),Recife (PE),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Recife (PE),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Recife (PE),premium,CloudFy,
+2024-08-14,Salvador (BH),Recife (PE),premium,Rainbow,
+2024-08-14,Salvador (BH),Sao Paulo (SP),economic,CloudFy,
+2024-08-14,Salvador (BH),Sao Paulo (SP),economic,Rainbow,
+2024-08-14,Salvador (BH),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-14,Salvador (BH),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-14,Salvador (BH),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-14,Salvador (BH),Sao Paulo (SP),premium,CloudFy,
+2024-08-14,Salvador (BH),Sao Paulo (SP),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Aracaju (SE),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Brasilia (DF),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Campo Grande (MS),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Florianopolis (SC),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Natal (RN),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Natal (RN),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Natal (RN),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Natal (RN),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Natal (RN),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Natal (RN),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Natal (RN),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Recife (PE),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Recife (PE),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Recife (PE),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Recife (PE),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Recife (PE),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Recife (PE),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Recife (PE),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-14,Sao Paulo (SP),Salvador (BH),economic,CloudFy,
+2024-08-14,Sao Paulo (SP),Salvador (BH),economic,Rainbow,
+2024-08-14,Sao Paulo (SP),Salvador (BH),firstClass,CloudFy,
+2024-08-14,Sao Paulo (SP),Salvador (BH),firstClass,FlyingDrops,
+2024-08-14,Sao Paulo (SP),Salvador (BH),firstClass,Rainbow,
+2024-08-14,Sao Paulo (SP),Salvador (BH),premium,CloudFy,
+2024-08-14,Sao Paulo (SP),Salvador (BH),premium,Rainbow,
+2024-08-15,Aracaju (SE),Brasilia (DF),economic,CloudFy,
+2024-08-15,Aracaju (SE),Brasilia (DF),economic,Rainbow,
+2024-08-15,Aracaju (SE),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Brasilia (DF),premium,CloudFy,
+2024-08-15,Aracaju (SE),Brasilia (DF),premium,Rainbow,
+2024-08-15,Aracaju (SE),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Aracaju (SE),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Aracaju (SE),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Aracaju (SE),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Aracaju (SE),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Aracaju (SE),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Aracaju (SE),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Aracaju (SE),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Aracaju (SE),Natal (RN),economic,CloudFy,
+2024-08-15,Aracaju (SE),Natal (RN),economic,Rainbow,
+2024-08-15,Aracaju (SE),Natal (RN),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Natal (RN),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Natal (RN),premium,CloudFy,
+2024-08-15,Aracaju (SE),Natal (RN),premium,Rainbow,
+2024-08-15,Aracaju (SE),Recife (PE),economic,CloudFy,
+2024-08-15,Aracaju (SE),Recife (PE),economic,Rainbow,
+2024-08-15,Aracaju (SE),Recife (PE),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Recife (PE),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Recife (PE),premium,CloudFy,
+2024-08-15,Aracaju (SE),Recife (PE),premium,Rainbow,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Aracaju (SE),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Aracaju (SE),Salvador (BH),economic,CloudFy,
+2024-08-15,Aracaju (SE),Salvador (BH),economic,Rainbow,
+2024-08-15,Aracaju (SE),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Salvador (BH),premium,CloudFy,
+2024-08-15,Aracaju (SE),Salvador (BH),premium,Rainbow,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Aracaju (SE),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Brasilia (DF),Aracaju (SE),economic,CloudFy,
+2024-08-15,Brasilia (DF),Aracaju (SE),economic,Rainbow,
+2024-08-15,Brasilia (DF),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Aracaju (SE),premium,CloudFy,
+2024-08-15,Brasilia (DF),Aracaju (SE),premium,Rainbow,
+2024-08-15,Brasilia (DF),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Brasilia (DF),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Brasilia (DF),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Brasilia (DF),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Brasilia (DF),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Brasilia (DF),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Brasilia (DF),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Brasilia (DF),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Brasilia (DF),Natal (RN),economic,CloudFy,
+2024-08-15,Brasilia (DF),Natal (RN),economic,Rainbow,
+2024-08-15,Brasilia (DF),Natal (RN),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Natal (RN),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Natal (RN),premium,CloudFy,
+2024-08-15,Brasilia (DF),Natal (RN),premium,Rainbow,
+2024-08-15,Brasilia (DF),Recife (PE),economic,CloudFy,
+2024-08-15,Brasilia (DF),Recife (PE),economic,Rainbow,
+2024-08-15,Brasilia (DF),Recife (PE),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Recife (PE),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Recife (PE),premium,CloudFy,
+2024-08-15,Brasilia (DF),Recife (PE),premium,Rainbow,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Brasilia (DF),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Brasilia (DF),Salvador (BH),economic,CloudFy,
+2024-08-15,Brasilia (DF),Salvador (BH),economic,Rainbow,
+2024-08-15,Brasilia (DF),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Salvador (BH),premium,CloudFy,
+2024-08-15,Brasilia (DF),Salvador (BH),premium,Rainbow,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Brasilia (DF),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Aracaju (SE),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Aracaju (SE),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Aracaju (SE),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Aracaju (SE),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Brasilia (DF),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Brasilia (DF),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Brasilia (DF),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Brasilia (DF),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Natal (RN),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Natal (RN),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Natal (RN),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Natal (RN),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Natal (RN),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Natal (RN),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Recife (PE),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Recife (PE),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Recife (PE),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Recife (PE),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Recife (PE),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Recife (PE),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Salvador (BH),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Salvador (BH),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Salvador (BH),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Salvador (BH),premium,Rainbow,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Campo Grande (MS),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Aracaju (SE),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Aracaju (SE),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Aracaju (SE),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Aracaju (SE),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Brasilia (DF),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Brasilia (DF),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Brasilia (DF),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Brasilia (DF),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Natal (RN),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Natal (RN),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Natal (RN),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Natal (RN),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Natal (RN),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Natal (RN),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Recife (PE),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Recife (PE),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Recife (PE),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Recife (PE),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Recife (PE),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Recife (PE),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Salvador (BH),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Salvador (BH),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Salvador (BH),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Salvador (BH),premium,Rainbow,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Florianopolis (SC),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Natal (RN),Aracaju (SE),economic,CloudFy,
+2024-08-15,Natal (RN),Aracaju (SE),economic,Rainbow,
+2024-08-15,Natal (RN),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Natal (RN),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Natal (RN),Aracaju (SE),premium,CloudFy,
+2024-08-15,Natal (RN),Aracaju (SE),premium,Rainbow,
+2024-08-15,Natal (RN),Brasilia (DF),economic,CloudFy,
+2024-08-15,Natal (RN),Brasilia (DF),economic,Rainbow,
+2024-08-15,Natal (RN),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Natal (RN),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Natal (RN),Brasilia (DF),premium,CloudFy,
+2024-08-15,Natal (RN),Brasilia (DF),premium,Rainbow,
+2024-08-15,Natal (RN),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Natal (RN),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Natal (RN),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Natal (RN),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Natal (RN),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Natal (RN),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Natal (RN),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Natal (RN),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Natal (RN),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Natal (RN),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Natal (RN),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Natal (RN),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Natal (RN),Recife (PE),economic,CloudFy,
+2024-08-15,Natal (RN),Recife (PE),economic,Rainbow,
+2024-08-15,Natal (RN),Recife (PE),firstClass,CloudFy,
+2024-08-15,Natal (RN),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Recife (PE),firstClass,Rainbow,
+2024-08-15,Natal (RN),Recife (PE),premium,CloudFy,
+2024-08-15,Natal (RN),Recife (PE),premium,Rainbow,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Natal (RN),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Natal (RN),Salvador (BH),economic,CloudFy,
+2024-08-15,Natal (RN),Salvador (BH),economic,Rainbow,
+2024-08-15,Natal (RN),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Natal (RN),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Natal (RN),Salvador (BH),premium,CloudFy,
+2024-08-15,Natal (RN),Salvador (BH),premium,Rainbow,
+2024-08-15,Natal (RN),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Natal (RN),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Natal (RN),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Natal (RN),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Natal (RN),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Natal (RN),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Natal (RN),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Recife (PE),Aracaju (SE),economic,CloudFy,
+2024-08-15,Recife (PE),Aracaju (SE),economic,Rainbow,
+2024-08-15,Recife (PE),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Recife (PE),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Recife (PE),Aracaju (SE),premium,CloudFy,
+2024-08-15,Recife (PE),Aracaju (SE),premium,Rainbow,
+2024-08-15,Recife (PE),Brasilia (DF),economic,CloudFy,
+2024-08-15,Recife (PE),Brasilia (DF),economic,Rainbow,
+2024-08-15,Recife (PE),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Recife (PE),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Recife (PE),Brasilia (DF),premium,CloudFy,
+2024-08-15,Recife (PE),Brasilia (DF),premium,Rainbow,
+2024-08-15,Recife (PE),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Recife (PE),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Recife (PE),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Recife (PE),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Recife (PE),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Recife (PE),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Recife (PE),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Recife (PE),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Recife (PE),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Recife (PE),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Recife (PE),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Recife (PE),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Recife (PE),Natal (RN),economic,CloudFy,
+2024-08-15,Recife (PE),Natal (RN),economic,Rainbow,
+2024-08-15,Recife (PE),Natal (RN),firstClass,CloudFy,
+2024-08-15,Recife (PE),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Natal (RN),firstClass,Rainbow,
+2024-08-15,Recife (PE),Natal (RN),premium,CloudFy,
+2024-08-15,Recife (PE),Natal (RN),premium,Rainbow,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Recife (PE),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Recife (PE),Salvador (BH),economic,CloudFy,
+2024-08-15,Recife (PE),Salvador (BH),economic,Rainbow,
+2024-08-15,Recife (PE),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Recife (PE),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Recife (PE),Salvador (BH),premium,CloudFy,
+2024-08-15,Recife (PE),Salvador (BH),premium,Rainbow,
+2024-08-15,Recife (PE),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Recife (PE),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Recife (PE),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Recife (PE),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Recife (PE),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Recife (PE),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Recife (PE),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Aracaju (SE),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Brasilia (DF),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Natal (RN),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Recife (PE),premium,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Rio de Janeiro (RJ),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Salvador (BH),Aracaju (SE),economic,CloudFy,
+2024-08-15,Salvador (BH),Aracaju (SE),economic,Rainbow,
+2024-08-15,Salvador (BH),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Aracaju (SE),premium,CloudFy,
+2024-08-15,Salvador (BH),Aracaju (SE),premium,Rainbow,
+2024-08-15,Salvador (BH),Brasilia (DF),economic,CloudFy,
+2024-08-15,Salvador (BH),Brasilia (DF),economic,Rainbow,
+2024-08-15,Salvador (BH),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Brasilia (DF),premium,CloudFy,
+2024-08-15,Salvador (BH),Brasilia (DF),premium,Rainbow,
+2024-08-15,Salvador (BH),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Salvador (BH),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Salvador (BH),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Salvador (BH),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Salvador (BH),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Salvador (BH),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Salvador (BH),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Salvador (BH),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Salvador (BH),Natal (RN),economic,CloudFy,
+2024-08-15,Salvador (BH),Natal (RN),economic,Rainbow,
+2024-08-15,Salvador (BH),Natal (RN),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Natal (RN),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Natal (RN),premium,CloudFy,
+2024-08-15,Salvador (BH),Natal (RN),premium,Rainbow,
+2024-08-15,Salvador (BH),Recife (PE),economic,CloudFy,
+2024-08-15,Salvador (BH),Recife (PE),economic,Rainbow,
+2024-08-15,Salvador (BH),Recife (PE),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Recife (PE),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Recife (PE),premium,CloudFy,
+2024-08-15,Salvador (BH),Recife (PE),premium,Rainbow,
+2024-08-15,Salvador (BH),Sao Paulo (SP),economic,CloudFy,
+2024-08-15,Salvador (BH),Sao Paulo (SP),economic,Rainbow,
+2024-08-15,Salvador (BH),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-15,Salvador (BH),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-15,Salvador (BH),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-15,Salvador (BH),Sao Paulo (SP),premium,CloudFy,
+2024-08-15,Salvador (BH),Sao Paulo (SP),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Aracaju (SE),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Brasilia (DF),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Campo Grande (MS),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Florianopolis (SC),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Natal (RN),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Natal (RN),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Natal (RN),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Natal (RN),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Natal (RN),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Natal (RN),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Natal (RN),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Recife (PE),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Recife (PE),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Recife (PE),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Recife (PE),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Recife (PE),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Recife (PE),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Recife (PE),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-15,Sao Paulo (SP),Salvador (BH),economic,CloudFy,
+2024-08-15,Sao Paulo (SP),Salvador (BH),economic,Rainbow,
+2024-08-15,Sao Paulo (SP),Salvador (BH),firstClass,CloudFy,
+2024-08-15,Sao Paulo (SP),Salvador (BH),firstClass,FlyingDrops,
+2024-08-15,Sao Paulo (SP),Salvador (BH),firstClass,Rainbow,
+2024-08-15,Sao Paulo (SP),Salvador (BH),premium,CloudFy,
+2024-08-15,Sao Paulo (SP),Salvador (BH),premium,Rainbow,
+2024-08-16,Aracaju (SE),Brasilia (DF),economic,CloudFy,
+2024-08-16,Aracaju (SE),Brasilia (DF),economic,Rainbow,
+2024-08-16,Aracaju (SE),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Brasilia (DF),premium,CloudFy,
+2024-08-16,Aracaju (SE),Brasilia (DF),premium,Rainbow,
+2024-08-16,Aracaju (SE),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Aracaju (SE),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Aracaju (SE),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Aracaju (SE),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Aracaju (SE),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Aracaju (SE),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Aracaju (SE),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Aracaju (SE),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Aracaju (SE),Natal (RN),economic,CloudFy,
+2024-08-16,Aracaju (SE),Natal (RN),economic,Rainbow,
+2024-08-16,Aracaju (SE),Natal (RN),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Natal (RN),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Natal (RN),premium,CloudFy,
+2024-08-16,Aracaju (SE),Natal (RN),premium,Rainbow,
+2024-08-16,Aracaju (SE),Recife (PE),economic,CloudFy,
+2024-08-16,Aracaju (SE),Recife (PE),economic,Rainbow,
+2024-08-16,Aracaju (SE),Recife (PE),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Recife (PE),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Recife (PE),premium,CloudFy,
+2024-08-16,Aracaju (SE),Recife (PE),premium,Rainbow,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Aracaju (SE),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Aracaju (SE),Salvador (BH),economic,CloudFy,
+2024-08-16,Aracaju (SE),Salvador (BH),economic,Rainbow,
+2024-08-16,Aracaju (SE),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Salvador (BH),premium,CloudFy,
+2024-08-16,Aracaju (SE),Salvador (BH),premium,Rainbow,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Aracaju (SE),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Brasilia (DF),Aracaju (SE),economic,CloudFy,
+2024-08-16,Brasilia (DF),Aracaju (SE),economic,Rainbow,
+2024-08-16,Brasilia (DF),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Aracaju (SE),premium,CloudFy,
+2024-08-16,Brasilia (DF),Aracaju (SE),premium,Rainbow,
+2024-08-16,Brasilia (DF),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Brasilia (DF),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Brasilia (DF),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Brasilia (DF),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Brasilia (DF),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Brasilia (DF),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Brasilia (DF),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Brasilia (DF),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Brasilia (DF),Natal (RN),economic,CloudFy,
+2024-08-16,Brasilia (DF),Natal (RN),economic,Rainbow,
+2024-08-16,Brasilia (DF),Natal (RN),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Natal (RN),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Natal (RN),premium,CloudFy,
+2024-08-16,Brasilia (DF),Natal (RN),premium,Rainbow,
+2024-08-16,Brasilia (DF),Recife (PE),economic,CloudFy,
+2024-08-16,Brasilia (DF),Recife (PE),economic,Rainbow,
+2024-08-16,Brasilia (DF),Recife (PE),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Recife (PE),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Recife (PE),premium,CloudFy,
+2024-08-16,Brasilia (DF),Recife (PE),premium,Rainbow,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Brasilia (DF),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Brasilia (DF),Salvador (BH),economic,CloudFy,
+2024-08-16,Brasilia (DF),Salvador (BH),economic,Rainbow,
+2024-08-16,Brasilia (DF),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Salvador (BH),premium,CloudFy,
+2024-08-16,Brasilia (DF),Salvador (BH),premium,Rainbow,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Brasilia (DF),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Aracaju (SE),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Aracaju (SE),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Aracaju (SE),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Aracaju (SE),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Brasilia (DF),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Brasilia (DF),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Brasilia (DF),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Brasilia (DF),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Natal (RN),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Natal (RN),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Natal (RN),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Natal (RN),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Natal (RN),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Natal (RN),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Recife (PE),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Recife (PE),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Recife (PE),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Recife (PE),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Recife (PE),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Recife (PE),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Salvador (BH),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Salvador (BH),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Salvador (BH),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Salvador (BH),premium,Rainbow,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Campo Grande (MS),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Aracaju (SE),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Aracaju (SE),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Aracaju (SE),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Aracaju (SE),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Brasilia (DF),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Brasilia (DF),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Brasilia (DF),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Brasilia (DF),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Natal (RN),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Natal (RN),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Natal (RN),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Natal (RN),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Natal (RN),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Natal (RN),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Recife (PE),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Recife (PE),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Recife (PE),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Recife (PE),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Recife (PE),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Recife (PE),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Salvador (BH),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Salvador (BH),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Salvador (BH),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Salvador (BH),premium,Rainbow,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Florianopolis (SC),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Natal (RN),Aracaju (SE),economic,CloudFy,
+2024-08-16,Natal (RN),Aracaju (SE),economic,Rainbow,
+2024-08-16,Natal (RN),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Natal (RN),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Natal (RN),Aracaju (SE),premium,CloudFy,
+2024-08-16,Natal (RN),Aracaju (SE),premium,Rainbow,
+2024-08-16,Natal (RN),Brasilia (DF),economic,CloudFy,
+2024-08-16,Natal (RN),Brasilia (DF),economic,Rainbow,
+2024-08-16,Natal (RN),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Natal (RN),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Natal (RN),Brasilia (DF),premium,CloudFy,
+2024-08-16,Natal (RN),Brasilia (DF),premium,Rainbow,
+2024-08-16,Natal (RN),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Natal (RN),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Natal (RN),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Natal (RN),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Natal (RN),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Natal (RN),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Natal (RN),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Natal (RN),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Natal (RN),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Natal (RN),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Natal (RN),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Natal (RN),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Natal (RN),Recife (PE),economic,CloudFy,
+2024-08-16,Natal (RN),Recife (PE),economic,Rainbow,
+2024-08-16,Natal (RN),Recife (PE),firstClass,CloudFy,
+2024-08-16,Natal (RN),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Recife (PE),firstClass,Rainbow,
+2024-08-16,Natal (RN),Recife (PE),premium,CloudFy,
+2024-08-16,Natal (RN),Recife (PE),premium,Rainbow,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Natal (RN),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Natal (RN),Salvador (BH),economic,CloudFy,
+2024-08-16,Natal (RN),Salvador (BH),economic,Rainbow,
+2024-08-16,Natal (RN),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Natal (RN),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Natal (RN),Salvador (BH),premium,CloudFy,
+2024-08-16,Natal (RN),Salvador (BH),premium,Rainbow,
+2024-08-16,Natal (RN),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Natal (RN),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Natal (RN),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Natal (RN),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Natal (RN),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Natal (RN),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Natal (RN),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Recife (PE),Aracaju (SE),economic,CloudFy,
+2024-08-16,Recife (PE),Aracaju (SE),economic,Rainbow,
+2024-08-16,Recife (PE),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Recife (PE),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Recife (PE),Aracaju (SE),premium,CloudFy,
+2024-08-16,Recife (PE),Aracaju (SE),premium,Rainbow,
+2024-08-16,Recife (PE),Brasilia (DF),economic,CloudFy,
+2024-08-16,Recife (PE),Brasilia (DF),economic,Rainbow,
+2024-08-16,Recife (PE),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Recife (PE),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Recife (PE),Brasilia (DF),premium,CloudFy,
+2024-08-16,Recife (PE),Brasilia (DF),premium,Rainbow,
+2024-08-16,Recife (PE),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Recife (PE),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Recife (PE),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Recife (PE),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Recife (PE),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Recife (PE),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Recife (PE),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Recife (PE),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Recife (PE),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Recife (PE),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Recife (PE),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Recife (PE),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Recife (PE),Natal (RN),economic,CloudFy,
+2024-08-16,Recife (PE),Natal (RN),economic,Rainbow,
+2024-08-16,Recife (PE),Natal (RN),firstClass,CloudFy,
+2024-08-16,Recife (PE),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Natal (RN),firstClass,Rainbow,
+2024-08-16,Recife (PE),Natal (RN),premium,CloudFy,
+2024-08-16,Recife (PE),Natal (RN),premium,Rainbow,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Recife (PE),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Recife (PE),Salvador (BH),economic,CloudFy,
+2024-08-16,Recife (PE),Salvador (BH),economic,Rainbow,
+2024-08-16,Recife (PE),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Recife (PE),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Recife (PE),Salvador (BH),premium,CloudFy,
+2024-08-16,Recife (PE),Salvador (BH),premium,Rainbow,
+2024-08-16,Recife (PE),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Recife (PE),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Recife (PE),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Recife (PE),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Recife (PE),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Recife (PE),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Recife (PE),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Aracaju (SE),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Brasilia (DF),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Natal (RN),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Recife (PE),premium,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Rio de Janeiro (RJ),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Salvador (BH),Aracaju (SE),economic,CloudFy,
+2024-08-16,Salvador (BH),Aracaju (SE),economic,Rainbow,
+2024-08-16,Salvador (BH),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Aracaju (SE),premium,CloudFy,
+2024-08-16,Salvador (BH),Aracaju (SE),premium,Rainbow,
+2024-08-16,Salvador (BH),Brasilia (DF),economic,CloudFy,
+2024-08-16,Salvador (BH),Brasilia (DF),economic,Rainbow,
+2024-08-16,Salvador (BH),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Brasilia (DF),premium,CloudFy,
+2024-08-16,Salvador (BH),Brasilia (DF),premium,Rainbow,
+2024-08-16,Salvador (BH),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Salvador (BH),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Salvador (BH),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Salvador (BH),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Salvador (BH),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Salvador (BH),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Salvador (BH),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Salvador (BH),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Salvador (BH),Natal (RN),economic,CloudFy,
+2024-08-16,Salvador (BH),Natal (RN),economic,Rainbow,
+2024-08-16,Salvador (BH),Natal (RN),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Natal (RN),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Natal (RN),premium,CloudFy,
+2024-08-16,Salvador (BH),Natal (RN),premium,Rainbow,
+2024-08-16,Salvador (BH),Recife (PE),economic,CloudFy,
+2024-08-16,Salvador (BH),Recife (PE),economic,Rainbow,
+2024-08-16,Salvador (BH),Recife (PE),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Recife (PE),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Recife (PE),premium,CloudFy,
+2024-08-16,Salvador (BH),Recife (PE),premium,Rainbow,
+2024-08-16,Salvador (BH),Sao Paulo (SP),economic,CloudFy,
+2024-08-16,Salvador (BH),Sao Paulo (SP),economic,Rainbow,
+2024-08-16,Salvador (BH),Sao Paulo (SP),firstClass,CloudFy,
+2024-08-16,Salvador (BH),Sao Paulo (SP),firstClass,FlyingDrops,
+2024-08-16,Salvador (BH),Sao Paulo (SP),firstClass,Rainbow,
+2024-08-16,Salvador (BH),Sao Paulo (SP),premium,CloudFy,
+2024-08-16,Salvador (BH),Sao Paulo (SP),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Aracaju (SE),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Brasilia (DF),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Campo Grande (MS),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Florianopolis (SC),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Natal (RN),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Natal (RN),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Natal (RN),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Natal (RN),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Natal (RN),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Natal (RN),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Natal (RN),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Recife (PE),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Recife (PE),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Recife (PE),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Recife (PE),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Recife (PE),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Recife (PE),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Recife (PE),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Rio de Janeiro (RJ),premium,Rainbow,
+2024-08-16,Sao Paulo (SP),Salvador (BH),economic,CloudFy,
+2024-08-16,Sao Paulo (SP),Salvador (BH),economic,Rainbow,
+2024-08-16,Sao Paulo (SP),Salvador (BH),firstClass,CloudFy,
+2024-08-16,Sao Paulo (SP),Salvador (BH),firstClass,FlyingDrops,
+2024-08-16,Sao Paulo (SP),Salvador (BH),firstClass,Rainbow,
+2024-08-16,Sao Paulo (SP),Salvador (BH),premium,CloudFy,
+2024-08-16,Sao Paulo (SP),Salvador (BH),premium,Rainbow,
+2026-07-09,Aracaju (SE),Brasilia (DF),economic,CloudFy,473.21588134765625
+2026-07-09,Aracaju (SE),Brasilia (DF),economic,Rainbow,548.11474609375
+2026-07-09,Aracaju (SE),Brasilia (DF),firstClass,CloudFy,957.430908203125
+2026-07-09,Aracaju (SE),Brasilia (DF),firstClass,FlyingDrops,898.3789672851562
+2026-07-09,Aracaju (SE),Brasilia (DF),firstClass,Rainbow,959.1378784179688
+2026-07-09,Aracaju (SE),Brasilia (DF),premium,CloudFy,755.3666381835938
+2026-07-09,Aracaju (SE),Brasilia (DF),premium,Rainbow,706.5493774414062
+2026-07-09,Aracaju (SE),Campo Grande (MS),economic,CloudFy,750.6278076171875
+2026-07-09,Aracaju (SE),Campo Grande (MS),economic,Rainbow,743.772216796875
+2026-07-09,Aracaju (SE),Campo Grande (MS),firstClass,CloudFy,1389.180419921875
+2026-07-09,Aracaju (SE),Campo Grande (MS),firstClass,FlyingDrops,1376.3514404296875
+2026-07-09,Aracaju (SE),Campo Grande (MS),firstClass,Rainbow,1387.732666015625
+2026-07-09,Aracaju (SE),Campo Grande (MS),premium,CloudFy,1022.6019897460938
+2026-07-09,Aracaju (SE),Campo Grande (MS),premium,Rainbow,1115.7896728515625
+2026-07-09,Aracaju (SE),Florianopolis (SC),economic,CloudFy,869.1990966796875
+2026-07-09,Aracaju (SE),Florianopolis (SC),economic,Rainbow,852.1854858398438
+2026-07-09,Aracaju (SE),Florianopolis (SC),firstClass,CloudFy,1515.53759765625
+2026-07-09,Aracaju (SE),Florianopolis (SC),firstClass,FlyingDrops,1500.2076416015625
+2026-07-09,Aracaju (SE),Florianopolis (SC),firstClass,Rainbow,1582.2698974609375
+2026-07-09,Aracaju (SE),Florianopolis (SC),premium,CloudFy,1174.7083740234375
+2026-07-09,Aracaju (SE),Florianopolis (SC),premium,Rainbow,1133.10400390625
+2026-07-09,Aracaju (SE),Natal (RN),economic,CloudFy,332.22943115234375
+2026-07-09,Aracaju (SE),Natal (RN),economic,Rainbow,380.2575988769531
+2026-07-09,Aracaju (SE),Natal (RN),firstClass,CloudFy,598.555908203125
+2026-07-09,Aracaju (SE),Natal (RN),firstClass,FlyingDrops,577.753662109375
+2026-07-09,Aracaju (SE),Natal (RN),firstClass,Rainbow,550.011962890625
+2026-07-09,Aracaju (SE),Natal (RN),premium,CloudFy,535.7474365234375
+2026-07-09,Aracaju (SE),Natal (RN),premium,Rainbow,427.589111328125
+2026-07-09,Aracaju (SE),Recife (PE),economic,CloudFy,603.922119140625
+2026-07-09,Aracaju (SE),Recife (PE),economic,Rainbow,602.7437744140625
+2026-07-09,Aracaju (SE),Recife (PE),firstClass,CloudFy,1124.2794189453125
+2026-07-09,Aracaju (SE),Recife (PE),firstClass,FlyingDrops,1088.916748046875
+2026-07-09,Aracaju (SE),Recife (PE),firstClass,Rainbow,1119.406494140625
+2026-07-09,Aracaju (SE),Recife (PE),premium,CloudFy,835.636474609375
+2026-07-09,Aracaju (SE),Recife (PE),premium,Rainbow,875.1126708984375
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),economic,CloudFy,717.3182373046875
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),economic,Rainbow,712.6640625
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),firstClass,CloudFy,1183.7357177734375
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),firstClass,FlyingDrops,1190.913330078125
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),firstClass,Rainbow,1189.9462890625
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),premium,CloudFy,1007.1228637695312
+2026-07-09,Aracaju (SE),Rio de Janeiro (RJ),premium,Rainbow,931.160400390625
+2026-07-09,Aracaju (SE),Salvador (BH),economic,CloudFy,964.6014404296875
+2026-07-09,Aracaju (SE),Salvador (BH),economic,Rainbow,943.2833251953125
+2026-07-09,Aracaju (SE),Salvador (BH),firstClass,CloudFy,1684.1685791015625
+2026-07-09,Aracaju (SE),Salvador (BH),firstClass,FlyingDrops,1714.7220458984375
+2026-07-09,Aracaju (SE),Salvador (BH),firstClass,Rainbow,1723.474609375
+2026-07-09,Aracaju (SE),Salvador (BH),premium,CloudFy,1288.7861328125
+2026-07-09,Aracaju (SE),Salvador (BH),premium,Rainbow,1289.0093994140625
+2026-07-09,Aracaju (SE),Sao Paulo (SP),economic,CloudFy,410.8633728027344
+2026-07-09,Aracaju (SE),Sao Paulo (SP),economic,Rainbow,446.785888671875
+2026-07-09,Aracaju (SE),Sao Paulo (SP),firstClass,CloudFy,730.7132568359375
+2026-07-09,Aracaju (SE),Sao Paulo (SP),firstClass,FlyingDrops,756.1563110351562
+2026-07-09,Aracaju (SE),Sao Paulo (SP),firstClass,Rainbow,752.0348510742188
+2026-07-09,Aracaju (SE),Sao Paulo (SP),premium,CloudFy,629.869873046875
+2026-07-09,Aracaju (SE),Sao Paulo (SP),premium,Rainbow,588.6023559570312
+2026-07-09,Brasilia (DF),Aracaju (SE),economic,CloudFy,655.1224365234375
+2026-07-09,Brasilia (DF),Aracaju (SE),economic,Rainbow,721.0463256835938
+2026-07-09,Brasilia (DF),Aracaju (SE),firstClass,CloudFy,1260.0518798828125
+2026-07-09,Brasilia (DF),Aracaju (SE),firstClass,FlyingDrops,1287.467529296875
+2026-07-09,Brasilia (DF),Aracaju (SE),firstClass,Rainbow,1214.796875
+2026-07-09,Brasilia (DF),Aracaju (SE),premium,CloudFy,987.0030517578125
+2026-07-09,Brasilia (DF),Aracaju (SE),premium,Rainbow,965.756591796875
+2026-07-09,Brasilia (DF),Campo Grande (MS),economic,CloudFy,583.6967163085938
+2026-07-09,Brasilia (DF),Campo Grande (MS),economic,Rainbow,629.4804077148438
+2026-07-09,Brasilia (DF),Campo Grande (MS),firstClass,CloudFy,1096.5433349609375
+2026-07-09,Brasilia (DF),Campo Grande (MS),firstClass,FlyingDrops,1009.6985473632812
+2026-07-09,Brasilia (DF),Campo Grande (MS),firstClass,Rainbow,1069.669921875
+2026-07-09,Brasilia (DF),Campo Grande (MS),premium,CloudFy,831.7762451171875
+2026-07-09,Brasilia (DF),Campo Grande (MS),premium,Rainbow,850.9652709960938
+2026-07-09,Brasilia (DF),Florianopolis (SC),economic,CloudFy,884.9744873046875
+2026-07-09,Brasilia (DF),Florianopolis (SC),economic,Rainbow,888.9824829101562
+2026-07-09,Brasilia (DF),Florianopolis (SC),firstClass,CloudFy,1487.84228515625
+2026-07-09,Brasilia (DF),Florianopolis (SC),firstClass,FlyingDrops,1569.5582275390625
+2026-07-09,Brasilia (DF),Florianopolis (SC),firstClass,Rainbow,1576.7119140625
+2026-07-09,Brasilia (DF),Florianopolis (SC),premium,CloudFy,1189.3623046875
+2026-07-09,Brasilia (DF),Florianopolis (SC),premium,Rainbow,1222.1490478515625
+2026-07-09,Brasilia (DF),Natal (RN),economic,CloudFy,791.5909423828125
+2026-07-09,Brasilia (DF),Natal (RN),economic,Rainbow,726.217041015625
+2026-07-09,Brasilia (DF),Natal (RN),firstClass,CloudFy,1313.937744140625
+2026-07-09,Brasilia (DF),Natal (RN),firstClass,FlyingDrops,1433.245361328125
+2026-07-09,Brasilia (DF),Natal (RN),firstClass,Rainbow,1434.6685791015625
+2026-07-09,Brasilia (DF),Natal (RN),premium,CloudFy,1067.1959228515625
+2026-07-09,Brasilia (DF),Natal (RN),premium,Rainbow,1107.3758544921875
+2026-07-09,Brasilia (DF),Recife (PE),economic,CloudFy,432.1044006347656
+2026-07-09,Brasilia (DF),Recife (PE),economic,Rainbow,421.23529052734375
+2026-07-09,Brasilia (DF),Recife (PE),firstClass,CloudFy,804.17822265625
+2026-07-09,Brasilia (DF),Recife (PE),firstClass,FlyingDrops,691.461669921875
+2026-07-09,Brasilia (DF),Recife (PE),firstClass,Rainbow,772.23583984375
+2026-07-09,Brasilia (DF),Recife (PE),premium,CloudFy,568.4143676757812
+2026-07-09,Brasilia (DF),Recife (PE),premium,Rainbow,559.1726684570312
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),economic,CloudFy,344.4098815917969
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),economic,Rainbow,370.9773864746094
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),firstClass,CloudFy,649.4354248046875
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),firstClass,FlyingDrops,539.4826049804688
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),firstClass,Rainbow,586.2319946289062
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),premium,CloudFy,457.95965576171875
+2026-07-09,Brasilia (DF),Rio de Janeiro (RJ),premium,Rainbow,440.7262268066406
+2026-07-09,Brasilia (DF),Salvador (BH),economic,CloudFy,957.7915649414062
+2026-07-09,Brasilia (DF),Salvador (BH),economic,Rainbow,921.6244506835938
+2026-07-09,Brasilia (DF),Salvador (BH),firstClass,CloudFy,1685.175048828125
+2026-07-09,Brasilia (DF),Salvador (BH),firstClass,FlyingDrops,1724.3624267578125
+2026-07-09,Brasilia (DF),Salvador (BH),firstClass,Rainbow,1665.224365234375
+2026-07-09,Brasilia (DF),Salvador (BH),premium,CloudFy,1346.4346923828125
+2026-07-09,Brasilia (DF),Salvador (BH),premium,Rainbow,1268.861328125
+2026-07-09,Brasilia (DF),Sao Paulo (SP),economic,CloudFy,538.9258422851562
+2026-07-09,Brasilia (DF),Sao Paulo (SP),economic,Rainbow,533.8028564453125
+2026-07-09,Brasilia (DF),Sao Paulo (SP),firstClass,CloudFy,893.6593627929688
+2026-07-09,Brasilia (DF),Sao Paulo (SP),firstClass,FlyingDrops,903.97412109375
+2026-07-09,Brasilia (DF),Sao Paulo (SP),firstClass,Rainbow,992.139892578125
+2026-07-09,Brasilia (DF),Sao Paulo (SP),premium,CloudFy,698.1312255859375
+2026-07-09,Brasilia (DF),Sao Paulo (SP),premium,Rainbow,749.9814453125
+2026-07-09,Campo Grande (MS),Aracaju (SE),economic,CloudFy,887.0001831054688
+2026-07-09,Campo Grande (MS),Aracaju (SE),economic,Rainbow,877.3967895507812
+2026-07-09,Campo Grande (MS),Aracaju (SE),firstClass,CloudFy,1581.710693359375
+2026-07-09,Campo Grande (MS),Aracaju (SE),firstClass,FlyingDrops,1473.4132080078125
+2026-07-09,Campo Grande (MS),Aracaju (SE),firstClass,Rainbow,1545.7071533203125
+2026-07-09,Campo Grande (MS),Aracaju (SE),premium,CloudFy,1214.5413818359375
+2026-07-09,Campo Grande (MS),Aracaju (SE),premium,Rainbow,1147.9140625
+2026-07-09,Campo Grande (MS),Brasilia (DF),economic,CloudFy,506.5221862792969
+2026-07-09,Campo Grande (MS),Brasilia (DF),economic,Rainbow,517.9801635742188
+2026-07-09,Campo Grande (MS),Brasilia (DF),firstClass,CloudFy,949.79736328125
+2026-07-09,Campo Grande (MS),Brasilia (DF),firstClass,FlyingDrops,847.9522094726562
+2026-07-09,Campo Grande (MS),Brasilia (DF),firstClass,Rainbow,871.065673828125
+2026-07-09,Campo Grande (MS),Brasilia (DF),premium,CloudFy,661.5205688476562
+2026-07-09,Campo Grande (MS),Brasilia (DF),premium,Rainbow,691.7481079101562
+2026-07-09,Campo Grande (MS),Florianopolis (SC),economic,CloudFy,808.6317749023438
+2026-07-09,Campo Grande (MS),Florianopolis (SC),economic,Rainbow,764.5394897460938
+2026-07-09,Campo Grande (MS),Florianopolis (SC),firstClass,CloudFy,1446.2706298828125
+2026-07-09,Campo Grande (MS),Florianopolis (SC),firstClass,FlyingDrops,1310.68798828125
+2026-07-09,Campo Grande (MS),Florianopolis (SC),firstClass,Rainbow,1340.857177734375
+2026-07-09,Campo Grande (MS),Florianopolis (SC),premium,CloudFy,1031.5634765625
+2026-07-09,Campo Grande (MS),Florianopolis (SC),premium,Rainbow,1030.137939453125
+2026-07-09,Campo Grande (MS),Natal (RN),economic,CloudFy,467.5049133300781
+2026-07-09,Campo Grande (MS),Natal (RN),economic,Rainbow,411.14837646484375
+2026-07-09,Campo Grande (MS),Natal (RN),firstClass,CloudFy,732.9395751953125
+2026-07-09,Campo Grande (MS),Natal (RN),firstClass,FlyingDrops,749.8636474609375
+2026-07-09,Campo Grande (MS),Natal (RN),firstClass,Rainbow,777.990478515625
+2026-07-09,Campo Grande (MS),Natal (RN),premium,CloudFy,652.4585571289062
+2026-07-09,Campo Grande (MS),Natal (RN),premium,Rainbow,541.6576538085938
+2026-07-09,Campo Grande (MS),Recife (PE),economic,CloudFy,659.4943237304688
+2026-07-09,Campo Grande (MS),Recife (PE),economic,Rainbow,674.0971069335938
+2026-07-09,Campo Grande (MS),Recife (PE),firstClass,CloudFy,1244.6842041015625
+2026-07-09,Campo Grande (MS),Recife (PE),firstClass,FlyingDrops,1261.5689697265625
+2026-07-09,Campo Grande (MS),Recife (PE),firstClass,Rainbow,1186.6417236328125
+2026-07-09,Campo Grande (MS),Recife (PE),premium,CloudFy,959.893310546875
+2026-07-09,Campo Grande (MS),Recife (PE),premium,Rainbow,990.8209838867188
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),economic,CloudFy,972.1038818359375
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),economic,Rainbow,946.4664916992188
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,CloudFy,1614.7237548828125
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,FlyingDrops,1609.79931640625
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),firstClass,Rainbow,1754.0787353515625
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),premium,CloudFy,1363.1595458984375
+2026-07-09,Campo Grande (MS),Rio de Janeiro (RJ),premium,Rainbow,1328.69384765625
+2026-07-09,Campo Grande (MS),Salvador (BH),economic,CloudFy,620.9716186523438
+2026-07-09,Campo Grande (MS),Salvador (BH),economic,Rainbow,615.4110107421875
+2026-07-09,Campo Grande (MS),Salvador (BH),firstClass,CloudFy,1148.8863525390625
+2026-07-09,Campo Grande (MS),Salvador (BH),firstClass,FlyingDrops,1053.09326171875
+2026-07-09,Campo Grande (MS),Salvador (BH),firstClass,Rainbow,1114.7247314453125
+2026-07-09,Campo Grande (MS),Salvador (BH),premium,CloudFy,827.0509033203125
+2026-07-09,Campo Grande (MS),Salvador (BH),premium,Rainbow,834.9318237304688
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),economic,CloudFy,375.5108337402344
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),economic,Rainbow,381.8619689941406
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),firstClass,CloudFy,620.20166015625
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),firstClass,FlyingDrops,684.662841796875
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),firstClass,Rainbow,644.158203125
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),premium,CloudFy,536.9509887695312
+2026-07-09,Campo Grande (MS),Sao Paulo (SP),premium,Rainbow,441.44512939453125
+2026-07-09,Florianopolis (SC),Aracaju (SE),economic,CloudFy,878.89794921875
+2026-07-09,Florianopolis (SC),Aracaju (SE),economic,Rainbow,819.572021484375
+2026-07-09,Florianopolis (SC),Aracaju (SE),firstClass,CloudFy,1468.3546142578125
+2026-07-09,Florianopolis (SC),Aracaju (SE),firstClass,FlyingDrops,1574.0775146484375
+2026-07-09,Florianopolis (SC),Aracaju (SE),firstClass,Rainbow,1581.9202880859375
+2026-07-09,Florianopolis (SC),Aracaju (SE),premium,CloudFy,1149.8057861328125
+2026-07-09,Florianopolis (SC),Aracaju (SE),premium,Rainbow,1248.383544921875
+2026-07-09,Florianopolis (SC),Brasilia (DF),economic,CloudFy,636.4727172851562
+2026-07-09,Florianopolis (SC),Brasilia (DF),economic,Rainbow,555.0947265625
+2026-07-09,Florianopolis (SC),Brasilia (DF),firstClass,CloudFy,1127.383056640625
+2026-07-09,Florianopolis (SC),Brasilia (DF),firstClass,FlyingDrops,1097.15625
+2026-07-09,Florianopolis (SC),Brasilia (DF),firstClass,Rainbow,1087.1610107421875
+2026-07-09,Florianopolis (SC),Brasilia (DF),premium,CloudFy,885.3367309570312
+2026-07-09,Florianopolis (SC),Brasilia (DF),premium,Rainbow,814.5641479492188
+2026-07-09,Florianopolis (SC),Campo Grande (MS),economic,CloudFy,478.21173095703125
+2026-07-09,Florianopolis (SC),Campo Grande (MS),economic,Rainbow,544.7810668945312
+2026-07-09,Florianopolis (SC),Campo Grande (MS),firstClass,CloudFy,949.5760498046875
+2026-07-09,Florianopolis (SC),Campo Grande (MS),firstClass,FlyingDrops,930.3045043945312
+2026-07-09,Florianopolis (SC),Campo Grande (MS),firstClass,Rainbow,857.3264770507812
+2026-07-09,Florianopolis (SC),Campo Grande (MS),premium,CloudFy,697.4034423828125
+2026-07-09,Florianopolis (SC),Campo Grande (MS),premium,Rainbow,715.1058349609375
+2026-07-09,Florianopolis (SC),Natal (RN),economic,CloudFy,727.1803588867188
+2026-07-09,Florianopolis (SC),Natal (RN),economic,Rainbow,780.439697265625
+2026-07-09,Florianopolis (SC),Natal (RN),firstClass,CloudFy,1315.45947265625
+2026-07-09,Florianopolis (SC),Natal (RN),firstClass,FlyingDrops,1348.795654296875
+2026-07-09,Florianopolis (SC),Natal (RN),firstClass,Rainbow,1385.1046142578125
+2026-07-09,Florianopolis (SC),Natal (RN),premium,CloudFy,1128.2041015625
+2026-07-09,Florianopolis (SC),Natal (RN),premium,Rainbow,1114.7918701171875
+2026-07-09,Florianopolis (SC),Recife (PE),economic,CloudFy,674.6023559570312
+2026-07-09,Florianopolis (SC),Recife (PE),economic,Rainbow,695.2496337890625
+2026-07-09,Florianopolis (SC),Recife (PE),firstClass,CloudFy,1300.17236328125
+2026-07-09,Florianopolis (SC),Recife (PE),firstClass,FlyingDrops,1292.1124267578125
+2026-07-09,Florianopolis (SC),Recife (PE),firstClass,Rainbow,1176.2298583984375
+2026-07-09,Florianopolis (SC),Recife (PE),premium,CloudFy,918.8703002929688
+2026-07-09,Florianopolis (SC),Recife (PE),premium,Rainbow,1013.29248046875
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),economic,CloudFy,313.66461181640625
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),economic,Rainbow,317.15057373046875
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,CloudFy,585.7318725585938
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,FlyingDrops,624.923583984375
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),firstClass,Rainbow,549.7369995117188
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),premium,CloudFy,470.0799865722656
+2026-07-09,Florianopolis (SC),Rio de Janeiro (RJ),premium,Rainbow,481.4111328125
+2026-07-09,Florianopolis (SC),Salvador (BH),economic,CloudFy,898.7869262695312
+2026-07-09,Florianopolis (SC),Salvador (BH),economic,Rainbow,915.0020751953125
+2026-07-09,Florianopolis (SC),Salvador (BH),firstClass,CloudFy,1640.750732421875
+2026-07-09,Florianopolis (SC),Salvador (BH),firstClass,FlyingDrops,1692.5758056640625
+2026-07-09,Florianopolis (SC),Salvador (BH),firstClass,Rainbow,1630.73828125
+2026-07-09,Florianopolis (SC),Salvador (BH),premium,CloudFy,1311.4051513671875
+2026-07-09,Florianopolis (SC),Salvador (BH),premium,Rainbow,1367.8380126953125
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),economic,CloudFy,426.9054870605469
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),economic,Rainbow,427.05224609375
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),firstClass,CloudFy,693.6004638671875
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),firstClass,FlyingDrops,762.87939453125
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),firstClass,Rainbow,738.8583984375
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),premium,CloudFy,554.9153442382812
+2026-07-09,Florianopolis (SC),Sao Paulo (SP),premium,Rainbow,577.8636474609375
+2026-07-09,Natal (RN),Aracaju (SE),economic,CloudFy,361.7080383300781
+2026-07-09,Natal (RN),Aracaju (SE),economic,Rainbow,301.67144775390625
+2026-07-09,Natal (RN),Aracaju (SE),firstClass,CloudFy,576.751220703125
+2026-07-09,Natal (RN),Aracaju (SE),firstClass,FlyingDrops,611.7047729492188
+2026-07-09,Natal (RN),Aracaju (SE),firstClass,Rainbow,611.2106323242188
+2026-07-09,Natal (RN),Aracaju (SE),premium,CloudFy,451.6832580566406
+2026-07-09,Natal (RN),Aracaju (SE),premium,Rainbow,479.1778259277344
+2026-07-09,Natal (RN),Brasilia (DF),economic,CloudFy,697.4534912109375
+2026-07-09,Natal (RN),Brasilia (DF),economic,Rainbow,686.8670043945312
+2026-07-09,Natal (RN),Brasilia (DF),firstClass,CloudFy,1300.0224609375
+2026-07-09,Natal (RN),Brasilia (DF),firstClass,FlyingDrops,1193.3927001953125
+2026-07-09,Natal (RN),Brasilia (DF),firstClass,Rainbow,1286.34619140625
+2026-07-09,Natal (RN),Brasilia (DF),premium,CloudFy,898.6138305664062
+2026-07-09,Natal (RN),Brasilia (DF),premium,Rainbow,919.9432373046875
+2026-07-09,Natal (RN),Campo Grande (MS),economic,CloudFy,546.04443359375
+2026-07-09,Natal (RN),Campo Grande (MS),economic,Rainbow,470.1751403808594
+2026-07-09,Natal (RN),Campo Grande (MS),firstClass,CloudFy,953.3048706054688
+2026-07-09,Natal (RN),Campo Grande (MS),firstClass,FlyingDrops,979.5283203125
+2026-07-09,Natal (RN),Campo Grande (MS),firstClass,Rainbow,855.8291625976562
+2026-07-09,Natal (RN),Campo Grande (MS),premium,CloudFy,748.4996337890625
+2026-07-09,Natal (RN),Campo Grande (MS),premium,Rainbow,660.2647705078125
+2026-07-09,Natal (RN),Florianopolis (SC),economic,CloudFy,873.0396118164062
+2026-07-09,Natal (RN),Florianopolis (SC),economic,Rainbow,884.42041015625
+2026-07-09,Natal (RN),Florianopolis (SC),firstClass,CloudFy,1569.805908203125
+2026-07-09,Natal (RN),Florianopolis (SC),firstClass,FlyingDrops,1540.6217041015625
+2026-07-09,Natal (RN),Florianopolis (SC),firstClass,Rainbow,1555.0037841796875
+2026-07-09,Natal (RN),Florianopolis (SC),premium,CloudFy,1166.2127685546875
+2026-07-09,Natal (RN),Florianopolis (SC),premium,Rainbow,1212.2896728515625
+2026-07-09,Natal (RN),Recife (PE),economic,CloudFy,429.76507568359375
+2026-07-09,Natal (RN),Recife (PE),economic,Rainbow,406.4726257324219
+2026-07-09,Natal (RN),Recife (PE),firstClass,CloudFy,744.1195068359375
+2026-07-09,Natal (RN),Recife (PE),firstClass,FlyingDrops,694.4359741210938
+2026-07-09,Natal (RN),Recife (PE),firstClass,Rainbow,806.8853149414062
+2026-07-09,Natal (RN),Recife (PE),premium,CloudFy,563.2369384765625
+2026-07-09,Natal (RN),Recife (PE),premium,Rainbow,579.6484375
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),economic,CloudFy,774.3150024414062
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),economic,Rainbow,755.6904907226562
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),firstClass,CloudFy,1391.4969482421875
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),firstClass,FlyingDrops,1375.2093505859375
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),firstClass,Rainbow,1314.11181640625
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),premium,CloudFy,1102.8004150390625
+2026-07-09,Natal (RN),Rio de Janeiro (RJ),premium,Rainbow,1100.4490966796875
+2026-07-09,Natal (RN),Salvador (BH),economic,CloudFy,924.4992065429688
+2026-07-09,Natal (RN),Salvador (BH),economic,Rainbow,959.1676025390625
+2026-07-09,Natal (RN),Salvador (BH),firstClass,CloudFy,1747.039306640625
+2026-07-09,Natal (RN),Salvador (BH),firstClass,FlyingDrops,1744.7745361328125
+2026-07-09,Natal (RN),Salvador (BH),firstClass,Rainbow,1641.83203125
+2026-07-09,Natal (RN),Salvador (BH),premium,CloudFy,1288.935791015625
+2026-07-09,Natal (RN),Salvador (BH),premium,Rainbow,1316.0560302734375
+2026-07-09,Natal (RN),Sao Paulo (SP),economic,CloudFy,623.18359375
+2026-07-09,Natal (RN),Sao Paulo (SP),economic,Rainbow,583.2095947265625
+2026-07-09,Natal (RN),Sao Paulo (SP),firstClass,CloudFy,1020.5267333984375
+2026-07-09,Natal (RN),Sao Paulo (SP),firstClass,FlyingDrops,1142.255859375
+2026-07-09,Natal (RN),Sao Paulo (SP),firstClass,Rainbow,1148.598388671875
+2026-07-09,Natal (RN),Sao Paulo (SP),premium,CloudFy,863.7571411132812
+2026-07-09,Natal (RN),Sao Paulo (SP),premium,Rainbow,879.7461547851562
+2026-07-09,Recife (PE),Aracaju (SE),economic,CloudFy,684.9678955078125
+2026-07-09,Recife (PE),Aracaju (SE),economic,Rainbow,663.2671508789062
+2026-07-09,Recife (PE),Aracaju (SE),firstClass,CloudFy,1166.6375732421875
+2026-07-09,Recife (PE),Aracaju (SE),firstClass,FlyingDrops,1300.1444091796875
+2026-07-09,Recife (PE),Aracaju (SE),firstClass,Rainbow,1181.273681640625
+2026-07-09,Recife (PE),Aracaju (SE),premium,CloudFy,932.6856689453125
+2026-07-09,Recife (PE),Aracaju (SE),premium,Rainbow,932.343505859375
+2026-07-09,Recife (PE),Brasilia (DF),economic,CloudFy,393.78961181640625
+2026-07-09,Recife (PE),Brasilia (DF),economic,Rainbow,439.33203125
+2026-07-09,Recife (PE),Brasilia (DF),firstClass,CloudFy,709.2662963867188
+2026-07-09,Recife (PE),Brasilia (DF),firstClass,FlyingDrops,697.2112426757812
+2026-07-09,Recife (PE),Brasilia (DF),firstClass,Rainbow,721.9249877929688
+2026-07-09,Recife (PE),Brasilia (DF),premium,CloudFy,573.6058349609375
+2026-07-09,Recife (PE),Brasilia (DF),premium,Rainbow,638.635498046875
+2026-07-09,Recife (PE),Campo Grande (MS),economic,CloudFy,563.7678833007812
+2026-07-09,Recife (PE),Campo Grande (MS),economic,Rainbow,615.3840942382812
+2026-07-09,Recife (PE),Campo Grande (MS),firstClass,CloudFy,1110.1134033203125
+2026-07-09,Recife (PE),Campo Grande (MS),firstClass,FlyingDrops,1039.5621337890625
+2026-07-09,Recife (PE),Campo Grande (MS),firstClass,Rainbow,1069.2969970703125
+2026-07-09,Recife (PE),Campo Grande (MS),premium,CloudFy,793.3609619140625
+2026-07-09,Recife (PE),Campo Grande (MS),premium,Rainbow,832.87890625
+2026-07-09,Recife (PE),Florianopolis (SC),economic,CloudFy,761.329345703125
+2026-07-09,Recife (PE),Florianopolis (SC),economic,Rainbow,803.2532348632812
+2026-07-09,Recife (PE),Florianopolis (SC),firstClass,CloudFy,1354.8221435546875
+2026-07-09,Recife (PE),Florianopolis (SC),firstClass,FlyingDrops,1434.1214599609375
+2026-07-09,Recife (PE),Florianopolis (SC),firstClass,Rainbow,1371.780029296875
+2026-07-09,Recife (PE),Florianopolis (SC),premium,CloudFy,1074.2431640625
+2026-07-09,Recife (PE),Florianopolis (SC),premium,Rainbow,1071.15576171875
+2026-07-09,Recife (PE),Natal (RN),economic,CloudFy,301.4981689453125
+2026-07-09,Recife (PE),Natal (RN),economic,Rainbow,360.2696838378906
+2026-07-09,Recife (PE),Natal (RN),firstClass,CloudFy,669.8348999023438
+2026-07-09,Recife (PE),Natal (RN),firstClass,FlyingDrops,633.6680908203125
+2026-07-09,Recife (PE),Natal (RN),firstClass,Rainbow,629.03662109375
+2026-07-09,Recife (PE),Natal (RN),premium,CloudFy,474.9208068847656
+2026-07-09,Recife (PE),Natal (RN),premium,Rainbow,488.4493713378906
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),economic,CloudFy,910.8333740234375
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),economic,Rainbow,908.8894653320312
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),firstClass,CloudFy,1612.7130126953125
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),firstClass,FlyingDrops,1706.5087890625
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),firstClass,Rainbow,1611.16552734375
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),premium,CloudFy,1270.2803955078125
+2026-07-09,Recife (PE),Rio de Janeiro (RJ),premium,Rainbow,1351.520751953125
+2026-07-09,Recife (PE),Salvador (BH),economic,CloudFy,842.1478881835938
+2026-07-09,Recife (PE),Salvador (BH),economic,Rainbow,861.4166259765625
+2026-07-09,Recife (PE),Salvador (BH),firstClass,CloudFy,1484.94189453125
+2026-07-09,Recife (PE),Salvador (BH),firstClass,FlyingDrops,1596.5260009765625
+2026-07-09,Recife (PE),Salvador (BH),firstClass,Rainbow,1470.42236328125
+2026-07-09,Recife (PE),Salvador (BH),premium,CloudFy,1242.4827880859375
+2026-07-09,Recife (PE),Salvador (BH),premium,Rainbow,1249.9495849609375
+2026-07-09,Recife (PE),Sao Paulo (SP),economic,CloudFy,513.3677368164062
+2026-07-09,Recife (PE),Sao Paulo (SP),economic,Rainbow,545.6187133789062
+2026-07-09,Recife (PE),Sao Paulo (SP),firstClass,CloudFy,883.8624877929688
+2026-07-09,Recife (PE),Sao Paulo (SP),firstClass,FlyingDrops,954.8408203125
+2026-07-09,Recife (PE),Sao Paulo (SP),firstClass,Rainbow,980.430419921875
+2026-07-09,Recife (PE),Sao Paulo (SP),premium,CloudFy,657.9908447265625
+2026-07-09,Recife (PE),Sao Paulo (SP),premium,Rainbow,669.9071044921875
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),economic,CloudFy,796.1262817382812
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),economic,Rainbow,734.3460083007812
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),firstClass,CloudFy,1445.996826171875
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),firstClass,FlyingDrops,1381.62548828125
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),firstClass,Rainbow,1386.5855712890625
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),premium,CloudFy,1091.421875
+2026-07-09,Rio de Janeiro (RJ),Aracaju (SE),premium,Rainbow,1098.458251953125
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),economic,CloudFy,369.538330078125
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),economic,Rainbow,364.4070129394531
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),firstClass,CloudFy,688.0747680664062
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),firstClass,FlyingDrops,591.2322998046875
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),firstClass,Rainbow,687.1962890625
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),premium,CloudFy,503.0284118652344
+2026-07-09,Rio de Janeiro (RJ),Brasilia (DF),premium,Rainbow,436.05279541015625
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),economic,CloudFy,882.8576049804688
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),economic,Rainbow,849.6258544921875
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,CloudFy,1512.3392333984375
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,FlyingDrops,1565.9208984375
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),firstClass,Rainbow,1518.9996337890625
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),premium,CloudFy,1139.91015625
+2026-07-09,Rio de Janeiro (RJ),Campo Grande (MS),premium,Rainbow,1219.71337890625
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),economic,CloudFy,533.5100708007812
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),economic,Rainbow,519.2948608398438
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,CloudFy,875.8641357421875
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,FlyingDrops,961.799560546875
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),firstClass,Rainbow,941.1964111328125
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),premium,CloudFy,708.2236938476562
+2026-07-09,Rio de Janeiro (RJ),Florianopolis (SC),premium,Rainbow,672.7765502929688
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),economic,CloudFy,677.35888671875
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),economic,Rainbow,670.2642822265625
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),firstClass,CloudFy,1297.255126953125
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),firstClass,FlyingDrops,1187.4571533203125
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),firstClass,Rainbow,1194.2906494140625
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),premium,CloudFy,998.3201293945312
+2026-07-09,Rio de Janeiro (RJ),Natal (RN),premium,Rainbow,991.2261962890625
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),economic,CloudFy,952.8502197265625
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),economic,Rainbow,932.5262451171875
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),firstClass,CloudFy,1663.901123046875
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),firstClass,FlyingDrops,1702.189697265625
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),firstClass,Rainbow,1617.8948974609375
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),premium,CloudFy,1333.387451171875
+2026-07-09,Rio de Janeiro (RJ),Recife (PE),premium,Rainbow,1306.31201171875
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),economic,CloudFy,446.7757568359375
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),economic,Rainbow,452.66424560546875
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,CloudFy,701.4984130859375
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,FlyingDrops,753.6915283203125
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),firstClass,Rainbow,714.3670043945312
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),premium,CloudFy,645.5510864257812
+2026-07-09,Rio de Janeiro (RJ),Sao Paulo (SP),premium,Rainbow,612.8798217773438
+2026-07-09,Salvador (BH),Aracaju (SE),economic,CloudFy,811.8321533203125
+2026-07-09,Salvador (BH),Aracaju (SE),economic,Rainbow,826.00244140625
+2026-07-09,Salvador (BH),Aracaju (SE),firstClass,CloudFy,1531.857666015625
+2026-07-09,Salvador (BH),Aracaju (SE),firstClass,FlyingDrops,1581.3896484375
+2026-07-09,Salvador (BH),Aracaju (SE),firstClass,Rainbow,1520.2982177734375
+2026-07-09,Salvador (BH),Aracaju (SE),premium,CloudFy,1208.969482421875
+2026-07-09,Salvador (BH),Aracaju (SE),premium,Rainbow,1247.037353515625
+2026-07-09,Salvador (BH),Brasilia (DF),economic,CloudFy,587.9378051757812
+2026-07-09,Salvador (BH),Brasilia (DF),economic,Rainbow,609.8046264648438
+2026-07-09,Salvador (BH),Brasilia (DF),firstClass,CloudFy,1032.4560546875
+2026-07-09,Salvador (BH),Brasilia (DF),firstClass,FlyingDrops,1020.1132202148438
+2026-07-09,Salvador (BH),Brasilia (DF),firstClass,Rainbow,1040.8126220703125
+2026-07-09,Salvador (BH),Brasilia (DF),premium,CloudFy,837.012451171875
+2026-07-09,Salvador (BH),Brasilia (DF),premium,Rainbow,882.8225708007812
+2026-07-09,Salvador (BH),Campo Grande (MS),economic,CloudFy,533.7208251953125
+2026-07-09,Salvador (BH),Campo Grande (MS),economic,Rainbow,494.9659423828125
+2026-07-09,Salvador (BH),Campo Grande (MS),firstClass,CloudFy,905.0118408203125
+2026-07-09,Salvador (BH),Campo Grande (MS),firstClass,FlyingDrops,979.723876953125
+2026-07-09,Salvador (BH),Campo Grande (MS),firstClass,Rainbow,962.1263427734375
+2026-07-09,Salvador (BH),Campo Grande (MS),premium,CloudFy,685.4352416992188
+2026-07-09,Salvador (BH),Campo Grande (MS),premium,Rainbow,773.9111938476562
+2026-07-09,Salvador (BH),Florianopolis (SC),economic,CloudFy,943.0880737304688
+2026-07-09,Salvador (BH),Florianopolis (SC),economic,Rainbow,899.62451171875
+2026-07-09,Salvador (BH),Florianopolis (SC),firstClass,CloudFy,1657.203857421875
+2026-07-09,Salvador (BH),Florianopolis (SC),firstClass,FlyingDrops,1616.6048583984375
+2026-07-09,Salvador (BH),Florianopolis (SC),firstClass,Rainbow,1654.0863037109375
+2026-07-09,Salvador (BH),Florianopolis (SC),premium,CloudFy,1321.4996337890625
+2026-07-09,Salvador (BH),Florianopolis (SC),premium,Rainbow,1336.5643310546875
+2026-07-09,Salvador (BH),Natal (RN),economic,CloudFy,659.8336181640625
+2026-07-09,Salvador (BH),Natal (RN),economic,Rainbow,690.9332275390625
+2026-07-09,Salvador (BH),Natal (RN),firstClass,CloudFy,1218.828857421875
+2026-07-09,Salvador (BH),Natal (RN),firstClass,FlyingDrops,1240.905029296875
+2026-07-09,Salvador (BH),Natal (RN),firstClass,Rainbow,1195.9481201171875
+2026-07-09,Salvador (BH),Natal (RN),premium,CloudFy,970.4784545898438
+2026-07-09,Salvador (BH),Natal (RN),premium,Rainbow,1001.4799194335938
+2026-07-09,Salvador (BH),Recife (PE),economic,CloudFy,767.2462158203125
+2026-07-09,Salvador (BH),Recife (PE),economic,Rainbow,751.5347900390625
+2026-07-09,Salvador (BH),Recife (PE),firstClass,CloudFy,1439.9410400390625
+2026-07-09,Salvador (BH),Recife (PE),firstClass,FlyingDrops,1348.40869140625
+2026-07-09,Salvador (BH),Recife (PE),firstClass,Rainbow,1439.5040283203125
+2026-07-09,Salvador (BH),Recife (PE),premium,CloudFy,1016.6443481445312
+2026-07-09,Salvador (BH),Recife (PE),premium,Rainbow,1103.2239990234375
+2026-07-09,Salvador (BH),Sao Paulo (SP),economic,CloudFy,358.67987060546875
+2026-07-09,Salvador (BH),Sao Paulo (SP),economic,Rainbow,381.4141540527344
+2026-07-09,Salvador (BH),Sao Paulo (SP),firstClass,CloudFy,591.1238403320312
+2026-07-09,Salvador (BH),Sao Paulo (SP),firstClass,FlyingDrops,676.6142578125
+2026-07-09,Salvador (BH),Sao Paulo (SP),firstClass,Rainbow,666.9773559570312
+2026-07-09,Salvador (BH),Sao Paulo (SP),premium,CloudFy,531.5763549804688
+2026-07-09,Salvador (BH),Sao Paulo (SP),premium,Rainbow,513.5753784179688
+2026-07-09,Sao Paulo (SP),Aracaju (SE),economic,CloudFy,722.5316772460938
+2026-07-09,Sao Paulo (SP),Aracaju (SE),economic,Rainbow,648.0511474609375
+2026-07-09,Sao Paulo (SP),Aracaju (SE),firstClass,CloudFy,1186.1182861328125
+2026-07-09,Sao Paulo (SP),Aracaju (SE),firstClass,FlyingDrops,1269.6788330078125
+2026-07-09,Sao Paulo (SP),Aracaju (SE),firstClass,Rainbow,1159.8553466796875
+2026-07-09,Sao Paulo (SP),Aracaju (SE),premium,CloudFy,906.627685546875
+2026-07-09,Sao Paulo (SP),Aracaju (SE),premium,Rainbow,962.60009765625
+2026-07-09,Sao Paulo (SP),Brasilia (DF),economic,CloudFy,389.52001953125
+2026-07-09,Sao Paulo (SP),Brasilia (DF),economic,Rainbow,393.89776611328125
+2026-07-09,Sao Paulo (SP),Brasilia (DF),firstClass,CloudFy,742.9593505859375
+2026-07-09,Sao Paulo (SP),Brasilia (DF),firstClass,FlyingDrops,727.3889770507812
+2026-07-09,Sao Paulo (SP),Brasilia (DF),firstClass,Rainbow,824.2518920898438
+2026-07-09,Sao Paulo (SP),Brasilia (DF),premium,CloudFy,602.0940551757812
+2026-07-09,Sao Paulo (SP),Brasilia (DF),premium,Rainbow,586.1185302734375
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),economic,CloudFy,335.2461853027344
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),economic,Rainbow,367.19488525390625
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),firstClass,CloudFy,563.089111328125
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),firstClass,FlyingDrops,667.990966796875
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),firstClass,Rainbow,595.2747192382812
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),premium,CloudFy,447.5874938964844
+2026-07-09,Sao Paulo (SP),Campo Grande (MS),premium,Rainbow,438.7504577636719
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),economic,CloudFy,947.9193115234375
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),economic,Rainbow,908.1592407226562
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),firstClass,CloudFy,1684.1275634765625
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),firstClass,FlyingDrops,1666.1441650390625
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),firstClass,Rainbow,1718.2579345703125
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),premium,CloudFy,1370.1124267578125
+2026-07-09,Sao Paulo (SP),Florianopolis (SC),premium,Rainbow,1367.5655517578125
+2026-07-09,Sao Paulo (SP),Natal (RN),economic,CloudFy,488.8154602050781
+2026-07-09,Sao Paulo (SP),Natal (RN),economic,Rainbow,529.8546142578125
+2026-07-09,Sao Paulo (SP),Natal (RN),firstClass,CloudFy,946.4351196289062
+2026-07-09,Sao Paulo (SP),Natal (RN),firstClass,FlyingDrops,943.177978515625
+2026-07-09,Sao Paulo (SP),Natal (RN),firstClass,Rainbow,932.909423828125
+2026-07-09,Sao Paulo (SP),Natal (RN),premium,CloudFy,719.801025390625
+2026-07-09,Sao Paulo (SP),Natal (RN),premium,Rainbow,701.48681640625
+2026-07-09,Sao Paulo (SP),Recife (PE),economic,CloudFy,829.9071044921875
+2026-07-09,Sao Paulo (SP),Recife (PE),economic,Rainbow,827.1305541992188
+2026-07-09,Sao Paulo (SP),Recife (PE),firstClass,CloudFy,1533.3514404296875
+2026-07-09,Sao Paulo (SP),Recife (PE),firstClass,FlyingDrops,1464.968994140625
+2026-07-09,Sao Paulo (SP),Recife (PE),firstClass,Rainbow,1573.362548828125
+2026-07-09,Sao Paulo (SP),Recife (PE),premium,CloudFy,1195.1373291015625
+2026-07-09,Sao Paulo (SP),Recife (PE),premium,Rainbow,1145.770263671875
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),economic,CloudFy,593.0614624023438
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),economic,Rainbow,625.404541015625
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,CloudFy,1092.685302734375
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,FlyingDrops,1041.5780029296875
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),firstClass,Rainbow,1016.9111938476562
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),premium,CloudFy,846.153076171875
+2026-07-09,Sao Paulo (SP),Rio de Janeiro (RJ),premium,Rainbow,861.6459350585938
+2026-07-09,Sao Paulo (SP),Salvador (BH),economic,CloudFy,793.2621459960938
+2026-07-09,Sao Paulo (SP),Salvador (BH),economic,Rainbow,743.6072998046875
+2026-07-09,Sao Paulo (SP),Salvador (BH),firstClass,CloudFy,1307.0216064453125
+2026-07-09,Sao Paulo (SP),Salvador (BH),firstClass,FlyingDrops,1427.0731201171875
+2026-07-09,Sao Paulo (SP),Salvador (BH),firstClass,Rainbow,1400.25634765625
+2026-07-09,Sao Paulo (SP),Salvador (BH),premium,CloudFy,1118.4141845703125
+2026-07-09,Sao Paulo (SP),Salvador (BH),premium,Rainbow,1114.026123046875

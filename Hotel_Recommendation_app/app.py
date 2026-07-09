@@ -31,7 +31,12 @@ st.markdown("### Explore More Hotels", unsafe_allow_html=True)
 
 st.markdown("<h5>Filter and check hotel prices by place per day</h5>", unsafe_allow_html=True)
 selected_place = st.selectbox("Select Place", df['place'].unique())
-selected_price = st.slider("Select Price Range", int(df['price'].min())-1, int(df['price'].max())+1)
+selected_price = st.slider(
+    "Select Price Range",
+    int(df['price'].min()) - 1,
+    int(df['price'].max()) + 1,
+    value=int(df['price'].max()) + 1,
+)
 
 filtered_data = df[(df['place'] == selected_place) & (df['price'] <= selected_price)]
 filtered_data = filtered_data[['hotel_name', 'place', 'price']].drop_duplicates()

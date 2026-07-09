@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pricepred-app-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: pricepred-app
+  template:
+    metadata:
+      labels:
+        app: pricepred-app
+    spec:
+      containers:
+      - name: pricepred-app-container
+        image: keerthana2904/pricepred-app:latest  # Your Docker image
+        ports:
+        - containerPort: 5000  # The port your Flask app is exposed on
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "500m"
+          limits:
+            memory: "512Mi"
+            cpu: "1"

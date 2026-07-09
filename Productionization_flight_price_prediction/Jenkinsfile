@@ -1,0 +1,89 @@
+pipeline {
+    agent any
+
+    parameters {
+        booleanParam(
+            name: 'PUSH_TO_REGISTRY',
+            defaultValue: false,
+            description: 'Push the built image to Docker Hub (requires the dockerhub-creds credential to be a real account)'
+        )
+        booleanParam(
+            name: 'DEPLOY_TO_K8S',
+            defaultValue: false,
+            description: 'Apply Kubernetes manifests after a successful push (requires a reachable cluster/kubectl context on the agent)'
+        )
+    }
+
+    environment {
+        IMAGE_NAME = 'keerthana2904/pricepred-app'
+        APP_DIR = 'Productionization_flight_price_prediction'
+        DOCKERHUB_CREDENTIALS = credentials('dockerhub-creds')
+    }
+
+    options {
+        timestamps()
+        disableConcurrentBuilds()
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
+            }
+        }
+
+        stage('Test') {
+            steps {
+                dir(APP_DIR) {
+                    sh '''
+                        python3 -m venv .venv
+                        . .venv/bin/activate
+                        pip install --no-cache-dir -r requirements.txt
+                        pytest tests/ -v
+                    '''
+                }
+            }
+        }
+
+        stage('Docker Build') {
+            steps {
+                dir(APP_DIR) {
+                    sh "docker build -t ${IMAGE_NAME}:${BUILD_NUMBER} -t ${IMAGE_NAME}:latest ."
+                }
+            }
+        }
+
+        stage('Docker Push') {
+            when {
+                expression { return params.PUSH_TO_REGISTRY }
+            }
+            steps {
+                sh 'echo "$DOCKERHUB_CREDENTIALS_PSW" | docker login -u "$DOCKERHUB_CREDENTIALS_USR" --password-stdin'
+                sh "docker push ${IMAGE_NAME}:${BUILD_NUMBER}"
+                sh "docker push ${IMAGE_NAME}:latest"
+            }
+        }
+
+        stage('Deploy to Kubernetes') {
+            when {
+                expression { return params.DEPLOY_TO_K8S }
+            }
+            steps {
+                dir(APP_DIR) {
+                    sh '''
+                        kubectl apply -f k8s/deployment.yaml
+                        kubectl apply -f k8s/service.yaml
+                        kubectl apply -f k8s/hpa.yaml
+                        kubectl rollout status deployment/pricepred-app-deployment --timeout=120s
+                    '''
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            sh 'docker logout || true'
+        }
+    }
+}

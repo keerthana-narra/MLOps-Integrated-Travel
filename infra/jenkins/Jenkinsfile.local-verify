@@ -1,0 +1,94 @@
+// Local verification copy of Productionization_flight_price_prediction/Jenkinsfile.
+// Skips the SCM checkout (the job's workspace is bind-mounted directly to the repo
+// working tree) so this can validate the Test/Build stages before the repo is pushed
+// to a remote Git host. Once pushed, use the real Jenkinsfile via "Pipeline script
+// from SCM" instead of this file.
+pipeline {
+    agent any
+
+    parameters {
+        booleanParam(
+            name: 'PUSH_TO_REGISTRY',
+            defaultValue: false,
+            description: 'Push the built image to Docker Hub (requires the dockerhub-creds credential to be a real account)'
+        )
+        booleanParam(
+            name: 'DEPLOY_TO_K8S',
+            defaultValue: false,
+            description: 'Apply Kubernetes manifests after a successful push (requires a reachable cluster/kubectl context on the agent)'
+        )
+    }
+
+    environment {
+        IMAGE_NAME = 'keerthana2904/pricepred-app'
+        APP_DIR = '/workspace/repo/Productionization_flight_price_prediction'
+        DOCKERHUB_CREDENTIALS = credentials('dockerhub-creds')
+    }
+
+    options {
+        timestamps()
+        disableConcurrentBuilds()
+    }
+
+    stages {
+        stage('Test') {
+            steps {
+                // Venv lives outside the bind-mounted repo (APP_DIR is a host path
+                // via docker.sock sibling-mount) so it never leaks onto the host disk.
+                // Unpinned installs here (unlike the app's requirements.txt) since this
+                // container's Python 3.13 has no prebuilt wheels for the old exact pins,
+                // forcing slow source builds; the smoke tests only need functional
+                // correctness, not the exact pinned versions.
+                sh 'python3 -m venv /tmp/pricepred-venv'
+                dir(APP_DIR) {
+                    sh '''
+                        . /tmp/pricepred-venv/bin/activate
+                        pip install --no-cache-dir pandas numpy scikit-learn xgboost flask pytest matplotlib seaborn
+                        pytest tests/ -v
+                    '''
+                }
+            }
+        }
+
+        stage('Docker Build') {
+            steps {
+                dir(APP_DIR) {
+                    sh "docker build -t ${IMAGE_NAME}:${BUILD_NUMBER} -t ${IMAGE_NAME}:latest ."
+                }
+            }
+        }
+
+        stage('Docker Push') {
+            when {
+                expression { return params.PUSH_TO_REGISTRY }
+            }
+            steps {
+                sh 'echo "$DOCKERHUB_CREDENTIALS_PSW" | docker login -u "$DOCKERHUB_CREDENTIALS_USR" --password-stdin'
+                sh "docker push ${IMAGE_NAME}:${BUILD_NUMBER}"
+                sh "docker push ${IMAGE_NAME}:latest"
+            }
+        }
+
+        stage('Deploy to Kubernetes') {
+            when {
+                expression { return params.DEPLOY_TO_K8S }
+            }
+            steps {
+                dir(APP_DIR) {
+                    sh '''
+                        kubectl apply -f k8s/deployment.yaml
+                        kubectl apply -f k8s/service.yaml
+                        kubectl apply -f k8s/hpa.yaml
+                        kubectl rollout status deployment/pricepred-app-deployment --timeout=120s
+                    '''
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            sh 'docker logout || true'
+        }
+    }
+}

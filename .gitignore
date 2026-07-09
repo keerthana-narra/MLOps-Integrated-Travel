@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*@tmp/
+
+# Airflow runtime state (not submission content)
+infra/airflow/logs/*
+!infra/airflow/logs/.gitkeep
+infra/airflow/plugins/*
+!infra/airflow/plugins/.gitkeep
+infra/airflow/config/*
+!infra/airflow/config/.gitkeep
+
+# Jenkins local container state
+jenkins_home/

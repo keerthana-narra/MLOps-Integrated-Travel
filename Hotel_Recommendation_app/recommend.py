@@ -15,8 +15,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import warnings
 warnings.filterwarnings('ignore')
 
-df_hotels = pd.read_csv('datasets/hotels.csv')
-df_users = pd.read_csv('datasets/users.csv')
+df_hotels = pd.read_csv('../data/hotels.csv')
+df_users = pd.read_csv('../data/users.csv')
 # Change column names to lowercase with underscores instead of spaces
 df_hotels.columns = df_hotels.columns.str.lower().str.replace(' ', '_')
 df_users.columns = df_users.columns.str.lower().str.replace(' ', '_')

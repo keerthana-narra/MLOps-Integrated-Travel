@@ -1,0 +1,26 @@
+# Reproduces the working environment for all three apps in this repo
+# (Hotel Recommendation Streamlit app, Flight Price Flask app, plus notebooks).
+#
+#   conda env create -f environment.yml
+#   conda activate mlops-travel
+name: mlops-travel
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-surprise=1.1.5
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - pandas==2.2.2
+      - scikit-learn==1.3.2
+      - sklearn-pandas==2.2.0
+      - streamlit==1.37.1
+      - gender-guesser==0.4.0
+      - matplotlib==3.10.9
+      - seaborn==0.13.2
+      - joblib==1.5.3
+      - xgboost==2.1.1
+      - flask==3.0.3
+      - pytest==8.3.2

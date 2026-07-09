@@ -1,0 +1,34 @@
+jenkins:
+  systemMessage: "Local Jenkins — MLOps-Integrated-Travel flight price prediction CI/CD demo"
+  numExecutors: 2
+  securityRealm:
+    local:
+      allowsSignup: false
+      users:
+        - id: admin
+          password: admin123
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+
+credentials:
+  system:
+    domainCredentials:
+      - credentials:
+          - usernamePassword:
+              scope: GLOBAL
+              id: dockerhub-creds
+              username: "replace-with-real-dockerhub-username"
+              password: "replace-with-real-dockerhub-token"
+              description: "Docker Hub credentials — placeholder. Replace via Manage Jenkins > Credentials before enabling PUSH_TO_REGISTRY."
+
+jobs:
+  - script: >
+      pipelineJob('flight-price-prediction-pipeline') {
+        definition {
+          cps {
+            script(new File('/workspace/repo/infra/jenkins/Jenkinsfile.local-verify').text)
+            sandbox(true)
+          }
+        }
+      }

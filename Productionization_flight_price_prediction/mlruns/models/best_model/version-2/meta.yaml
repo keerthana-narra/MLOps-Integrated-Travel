@@ -1,0 +1,16 @@
+creation_timestamp: 1783631574107
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1783631574107
+model_id: ''
+name: best_model
+run_id: e8f35c3602a04cbe98b7d2a784ed2335
+run_link: ''
+source: runs:/e8f35c3602a04cbe98b7d2a784ed2335/BestXGBoostModel
+status: READY
+status_message: null
+storage_location: runs:/e8f35c3602a04cbe98b7d2a784ed2335/BestXGBoostModel
+user_id: null
+version: 2
+workspace: default

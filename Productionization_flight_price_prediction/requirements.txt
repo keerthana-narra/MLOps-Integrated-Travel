@@ -4,7 +4,7 @@ blinker==1.8.2
 click==8.1.7
 colorama==0.4.6
 comm==0.2.2
-contourpy==1.2.1
+#contourpy==1.2.1
 cycler==0.12.1
 debugpy==1.8.5
 decorator==5.1.1
@@ -41,6 +41,7 @@ psutil==6.0.0
 pure_eval==0.2.3
 Pygments==2.18.0
 pyparsing==3.1.2
+pytest==8.3.2
 python-dateutil==2.9.0.post0
 pytz==2024.1
 pyzmq==26.1.0
